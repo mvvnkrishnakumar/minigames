@@ -1,0 +1,32 @@
+.grid-bg {
+    background-color: #1a202c;
+    height: 100vh;
+    background-size: cover;
+  }
+  .grid-level {
+    color: #ffffff;
+    font-size: 25px;
+    margin-bottom: 30px;
+    padding-top: 30px;
+  }
+  .grid-total-score {
+    color: #ffffff;
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  .grid-align {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .grid-rules-button {
+    background-color: transparent;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    color: #ffffff;
+    margin-right: 20px;
+    margin-top: 30px;
+    height: 50px;
+    width: 70px;
+  }
+  

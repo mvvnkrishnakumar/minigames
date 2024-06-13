@@ -1,0 +1,62 @@
+.memory-bg {
+    background-color: #14332e;
+    height: 100vh;
+    background-size: cover;
+  }
+  .memory-left-arrow {
+    padding-top: 30px;
+    height: 50px;
+    width: 50px;
+    color: #ffffff;
+  }
+  .memory-rules-heading {
+    color: #ffffff;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: 500;
+  }
+  memory-back-align {
+    display: flex;
+    flex-direction: row;
+  }
+  .memory-back {
+    color: #ffffff;
+    font-size: 20px;
+    margin-top: 28px;
+  }
+  .memory-back-button {
+    background-color: transparent;
+    border: none;
+  }
+  .memory-back-text {
+    text-decoration: none;
+  }
+  .memory-center {
+    text-align: center;
+  }
+  .memory-align {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  .memory-para {
+    color: #ffffff;
+    font-size: 19px;
+    margin-top: 20px;
+    font-family: 'Bree Serif';
+  }
+  .memory-button {
+    background-color: #ffffff;
+    color: #223a5f;
+    height: 50px;
+    width: 100px;
+    margin-left: 30px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 700;
+    margin-bottom: 30px;
+  }
+  

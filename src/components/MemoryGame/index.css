@@ -1,0 +1,30 @@
+.left-arrow {
+    margin-left: 20px;
+    padding-top: 30px;
+    height: 50px;
+    width: 50px;
+  }
+  
+  .align {
+    display: flex;
+    flex-direction: row;
+  }
+  .back {
+    color: #ffffff;
+    font-size: 20px;
+    margin-top: 28px;
+  }
+  .back-button {
+    background-color: transparent;
+    border: none;
+  }
+  .back-text {
+    text-decoration: none;
+  }
+  .memory-para-popup {
+    color: #475569;
+    font-size: 19px;
+    margin-top: 20px;
+    font-family: 'Bree Serif';
+  }
+  

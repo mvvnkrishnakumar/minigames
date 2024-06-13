@@ -1,0 +1,14 @@
+.play-again-button {
+    background-color: #467aff;
+    color: #ffffff;
+    height: 50px;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+  .remaining-count {
+    color: #ffffff;
+    font-size: 20px;
+  }
+  

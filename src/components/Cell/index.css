@@ -1,0 +1,21 @@
+.grid-align {
+    text-align: center;
+  }
+  .cell {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    border: 1px solid #aaa;
+    background: #cbd5e1;
+    margin-right: 4px;
+  }
+  .active {
+    background-color: #467aff;
+  }
+  .guess-true {
+    background-color: #467aff;
+  }
+  .guess-false {
+    background-color: #cc0000;
+  }
+  

@@ -1,0 +1,80 @@
+.matrix-bg {
+    background-color: #1a202c;
+  }
+  .matrix-left-arrow {
+    margin-left: 20px;
+    padding-top: 30px;
+    height: 50px;
+    width: 50px;
+    color: #ffffff;
+  }
+  .matrix-align {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  .matrix-rules-heading {
+    color: #ffffff;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: 500;
+  }
+  matrix-back-align {
+    display: flex;
+    flex-direction: row;
+  }
+  .matrix-back {
+    color: #ffffff;
+    font-size: 20px;
+    margin-top: 28px;
+  }
+  .matrix-back-button {
+    background-color: transparent;
+    border: none;
+  }
+  .matrix-back-text {
+    text-decoration: none;
+  }
+  .matrix-center {
+    text-align: center;
+  }
+  .matrix-align {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  @media screen and (max-width: 540px) {
+    .matrix-align {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+  .matrix-para {
+    color: #ffffff;
+    font-size: 19px;
+    margin-top: 20px;
+    font-family: 'Bree Serif';
+  }
+  .matrix-button {
+    background-color: #ffffff;
+    color: #223a5f;
+    height: 50px;
+    width: 100px;
+    margin-left: 30px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  .matrix-heading {
+    font-family: 'Bree Serif';
+    color: #ffffff;
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  

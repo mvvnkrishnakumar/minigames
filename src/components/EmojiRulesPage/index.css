@@ -1,0 +1,96 @@
+.left-arrow {
+    margin-left: 20px;
+    padding-top: 30px;
+    height: 50px;
+    width: 50px;
+  }
+  
+  .align {
+    display: flex;
+    flex-direction: row;
+  }
+  .back {
+    color: #000000;
+    font-size: 20px;
+    margin-top: 28px;
+  }
+  .back-button {
+    background-color: transparent;
+    border: none;
+  }
+  .back-text {
+    text-decoration: none;
+  }
+  .emoji-align {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+  }
+  @media screen and (max-width: 540px) {
+    .emoji-align {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+  .emoji-rules-card {
+    background-color: transparent;
+    height: 600px;
+    width: 800px;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+  }
+  @media screen and (max-width: 540px) {
+    .emoji-rules-card {
+      height: 700px;
+      width: 300px;
+      margin-top: 20px;
+    }
+  }
+  .emoji-rules-image {
+    height: 250px;
+    width: 250px;
+    margin-left: 30px;
+  }
+  @media screen and (max-width: 540px) {
+    .emoji-rules-image {
+      height: 100px;
+      width: 100px;
+    }
+  }
+  .rules-heading {
+    color: #334155;
+    text-align: center;
+  }
+  @media screen and (max-width: 540px) {
+    .rules-heading {
+      font-size: 25px;
+    }
+  }
+  .rules-text {
+    color: #334155;
+    font-size: 18px;
+  }
+  @media screen and (max-width: 540px) {
+    .rules-text {
+      font-size: 15px;
+    }
+  }
+  .rules-list {
+    margin-top: 20px;
+  }
+  .button-align {
+    text-align: center;
+  }
+  .start-button {
+    background-color: #334155;
+    color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    height: 40px;
+    width: 100px;
+    margin-top: 20px;
+  }
+  
